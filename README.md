@@ -2,7 +2,7 @@
 
 **Empower yourself with industry-proven C++ development skills**
 
-![Microcontroller board with wires](Image of a microcontroller board with various colored wires connected to different components)
+![Microcontroller board with wires](public/commodore64.jpg)
 
 Elevate your programming capabilities with our C++ training program, meticulously crafted by a team with over 15 years of experience in building C++ microservices for embedded systems. We leverage continuous integration (CI) best practices to ensure our training reflects the latest industry standards.
 
